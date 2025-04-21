@@ -8,3 +8,4 @@ uv add install -r requirements.txt
 uv add install -e . --no-build-isolation
 
 uv add install --dev pre-commit
+pre-commit install
